@@ -1,50 +1,133 @@
-
-
 # QA Portfolio
 
 Hi! My name is Jamshed Kholnazarov.
 
-I am Junior QA Engineer focused on Manual Testing.
+I am a Junior QA Engineer focused on Manual Testing, API Testing and Software Quality Assurance.
 
-## Skills
+---
+
+## About Me
+
+I am interested in software testing and quality assurance.
+
+I practice:
+- Manual testing
+- API testing
+- SQL
+- Test documentation
+- Bug analysis
+
+My goal is to develop as a QA Engineer and contribute to building high-quality software.
+
+---
+
+# Skills
+
+## Testing
 
 - Manual Testing
 - Functional Testing
 - Regression Testing
-- API Testing
+- Smoke Testing
+- Exploratory Testing
+- Test Cases
+- Checklists
+- Bug Reports
+
+
+## API Testing
+
+- REST API
+- HTTP Methods
+- JSON
 - Postman
+- Request / Response analysis
+- Status Codes
+
+
+## Database
+
 - SQL
+- SELECT
+- WHERE
+- JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate functions
+
+
+## Tools
+
 - Jira
-- DevTools
+- Chrome DevTools
+- GitHub
+- Postman
 
-## Projects
+---
 
-## BankPro
+# Projects
+
+
+## 🏦 BankPro
 
 Banking application testing project.
 
-Testing areas:
-- Authorization
-- Transfers
-- Payments
-- User profile
+Covered areas:
+
+- User authorization
+- Authentication tokens
+- Money transfers
+- Security scenarios
+- API testing
+
 
 Created:
-- Checklists
-- Test Cases
+
 - Bug Reports
+- Test Cases
+- Checklists
+- API documentation
 
 
-## MarketShop
+Examples:
+
+- Missing access token after login
+- Transfer completed but funds not received
+- Access after logout
+
+
+---
+
+## 🛒 MarketShop
 
 E-commerce application testing project.
 
-Testing areas:
-- Registration
+Covered areas:
+
+- User registration
 - Validation
-- User scenarios
+- Authentication flow
+
 
 Created:
-- Checklists
+
 - Bug Reports
 - Test Cases
+- Checklists
+
+
+Examples:
+
+- User cannot login after successful registration
+- Invalid email validation
+
+
+---
+
+# Contact
+
+Telegram:
+@myselfmusician
+
+LinkedIn:
+(Add your link)
